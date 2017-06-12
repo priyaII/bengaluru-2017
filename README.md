@@ -4,6 +4,7 @@ As I find Bangalore Related Data, I will list it here.
 I had been using "MyMaps" to visualise ; The Added advantage was I could open the Shared link on Google Maps.
 
 Metro stations in Bengaluru - [Link 1](https://drive.google.com/open?id=1KJSkdm-9KTXA203SzYgNGSK8Ers&usp=sharing)
+Sub-urban Rail Network in bangalore - [Link](https://upload.wikimedia.org/wikipedia/commons/e/e6/Bangalore_Suburban_Rail_Network1.png)
 
 Aadhaar Centres in Bengaluru - [Link 2](https://drive.google.com/open?id=1YWkOXGjJojTDBuHQ1KKvj7Fbrns&usp=sharing)
 I had trouble locating a legit centre and finding out the timings so, just made this to find ANY centre to go to!
