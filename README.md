@@ -1,4 +1,8 @@
 # bengaluru-2017
+
+These are the different things I have used to move around Bangalore Better.
+If you have found anything useful, please do comment & share if there is anything you would like to see.
+
 As I find Bangalore Related Data, I will list it here.
 
 I had been using "MyMaps" to visualise ; The Added advantage was I could open the Shared link on Google Maps.
@@ -18,7 +22,7 @@ Random - Food Trucks in Bangalore [Link 3](https://drive.google.com/open?id=19xb
 Bus Transport in Bangalore Visualised - [Link](https://github.com/geohacker/bmtc)
 
 ____________________________________________
-Bangalore Data about the following topics can be found here - 
+Bangalore Data about the following topics can be found here -
 [Link1](http://openbangalore.org/available-data/)
 [LINK 2](https://github.com/openbangalore)
 
