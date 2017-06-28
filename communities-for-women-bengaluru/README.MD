@@ -20,41 +20,37 @@ TheeBeauties.com
 
 ## TECH
 
-Women in Foss [Link1](https://deepdives.in/the-trouble-with-being-a-woman-in-foss-75181981bfdd) [Link2](http://fosscommunity.in/index.php?title=Contributors)
+ - Women in Foss [Link1](https://deepdives.in/the-trouble-with-being-a-woman-in-foss-75181981bfdd) [Link2](http://fosscommunity.in/index.php?title=Contributors)
+ - Women Who Code[] (https://www.womenwhocode.com/bangalore)
+ - Anita Borg Bangalore (https://anitaborg.org/about-us/india/)
+ - AdaCamp is an unconference for women in open technology
+ - CODESS, a community for women coders established by Skype[Link](https://yourstory.com/2014/05/microsoft-codess-india/)
+ - WinSpire, the women’s networking team
 
-https://www.womenwhocode.com/bangalore
 
-https://anitaborg.org/about-us/india/
-
-AdaCamp is an unconference for women in open technology
-
-
-CODESS, a community for women coders established by Skype
-[(Link)](https://yourstory.com/2014/05/microsoft-codess-india/)
-WinSpire, the women’s networking team
 
 ### Events
-Women Enhancing Technology (WeTech) *
+ - Women Enhancing Technology (WeTech) *
+ - [Nikitha's List of Tech Conferences](https://github.com/nikhita/tech-conferences-india)
 
-
-##Community for Working Women
+## Community for Working Women
 https://sheroes.com/
 
 https://www.explorelifetraveling.com/community/Women%20Professionals
 
 
-##General - Bengaluru!
+## General - Bengaluru!
 
 
 
 http://www.womensweb.in/events/
 
-##Sports
+## Sports
 Maya Football Club [Source](https://blog.playo.co/2017/03/24/community-for-women-in-bengaluru-maya-fc/)
  - Maya Outdoors
  - WHAQ
 
-##Sports - Running
+## Sports - Running
 http://midnightmarathon.in/
 
 
@@ -75,7 +71,7 @@ This committee of ASMs called the Jana Suraksha Samiti
 - This democratic, citizen-friendly and participatory policing method is picking up pace in the country and is being implemented under different banners — Maithri in Andhra Pradesh, VishvasYojana in Himachal Pradesh, Friends of Police in Tamil Nadu, Sahayata West Bengal, Prahari in Assam, and Janmaithri in Kerala. The States of Assam, Kerala and Chhattisgarh have incorporated CP in their respective Police Acts.
  (http://www.thehindu.com/news/cities/bangalore/community-to-the-defence-of-women/article18517281.ece)
 
- ##Communitites for Mental Health Support
+## Communitites for Mental Health Support
 
  http://www.thebanyan.org/
 
