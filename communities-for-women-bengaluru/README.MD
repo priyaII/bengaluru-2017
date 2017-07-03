@@ -3,6 +3,10 @@
 First Step: Currently, I will be listing them oout irrespective of how active/dormant they are.
 Next Step: after forming a good list, will list by how active they are.
 
+## All-in-1
+
+https://sheroes.com/communities
+
 ## Science
 http://www.ias.ac.in/Initiatives/Women_in_Science/
 
@@ -34,7 +38,6 @@ TheeBeauties.com
  - [Nikitha's List of Tech Conferences](https://github.com/nikhita/tech-conferences-india)
 
 ## Community for Working Women
-https://sheroes.com/
 
 https://www.explorelifetraveling.com/community/Women%20Professionals
 
