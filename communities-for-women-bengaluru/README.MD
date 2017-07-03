@@ -84,7 +84,9 @@ https://www.videovolunteers.org/about/indiaunheard/
 # Note to Self
 ## On my mind
 HerStory
-
+The hashtags!
+ - Linkedin network & events - #SHEROESSummit
+ - 
 ## To be continued -
  - https://tab.bz/dashboard/womenbengaluru
 
