@@ -61,7 +61,7 @@ http://midnightmarathon.in/
 ## Housing for women by Women
 https://www.explorelifetraveling.com/community/Women%20Professionals
 
-## communities for protection of Women:
+## communities for protection of Women: [Twitter Link](https://twitter.com/blrcp)
 The Soukhya project was initiated in 2013 (year) by APSA, Breakthrough and the St. John’s Hospital Research Institute to empower women from urban slums combat gender-based violence in their families and community.
 http://www.apsabangalore.org/project/self-help-group-shg/
 ,,,
