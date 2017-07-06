@@ -30,6 +30,7 @@ TheeBeauties.com
  - AdaCamp is an unconference for women in open technology
  - CODESS, a community for women coders established by Skype[Link](https://yourstory.com/2014/05/microsoft-codess-india/)
  - WinSpire, the women’s networking team
+ - Women who Javascript - https://twitter.com/blrjavascript
 
 
 
