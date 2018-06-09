@@ -1,4 +1,4 @@
-# Getting Started!
+# Getting Started! 
 
 First Step: Currently, I will be listing them oout irrespective of how active/dormant they are.
 Next Step: after forming a good list, will list by how active they are.
@@ -21,7 +21,21 @@ The Lawyers Collective Women’s Rights Initiative (“LCWRI”)’s mission is 
 ## Travel groups
 TheeBeauties.com
 
+## Design
 
+https://designup.io
+
+A community manager-Anil- told me about this community he had started in Bangalore.
+
+He was part of NUMA and mentioned that NUMA is one of the best spaces for connections in Bangalore.
+
+"Creative mornings"
+Breakfast lecture series for the creative community. Our free, monthly events feature a short talk and breakfast!
+https://creativemornings.com/cities/blr
+
+https://creativemornings.com/cities/blr
+
+The work you do in 1 hour can be cast here & will reach an audience that's perfect for you.
 ## TECH
 
  - Women in Foss [Link1](https://deepdives.in/the-trouble-with-being-a-woman-in-foss-75181981bfdd) [Link2](http://fosscommunity.in/index.php?title=Contributors)
@@ -30,7 +44,7 @@ TheeBeauties.com
  - AdaCamp is an unconference for women in open technology
  - CODESS, a community for women coders established by Skype[Link](https://yourstory.com/2014/05/microsoft-codess-india/)
  - WinSpire, the women’s networking team
- - Women who Javascript - https://twitter.com/blrjavascript
+
 
 
 
