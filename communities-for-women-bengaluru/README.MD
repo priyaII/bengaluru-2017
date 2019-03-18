@@ -3,6 +3,11 @@
 First Step: Currently, I will be listing them oout irrespective of how active/dormant they are.
 Next Step: after forming a good list, will list by how active they are.
 
+## Community for Female Founders
+
+http://hashtagfemalefounders.com/
+*Paid
+
 ## All-in-1
 
 https://sheroes.com/communities
@@ -13,7 +18,7 @@ http://www.ias.ac.in/Initiatives/Women_in_Science/
 ## Enterpreneur
 Prathibha Sastry Academy of Women Entrepreneurs
 
-PS:This Matters" brings together Entrepreneurial, Adventurous and Innovative women.
+PS:brings together Entrepreneurial, Adventurous and Innovative women.
 
 ## Law
 The Lawyers Collective Women’s Rights Initiative (“LCWRI”)’s mission is the empowerment of women through law. http://www.lawyerscollective.org/wri
