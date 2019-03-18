@@ -1,11 +1,11 @@
 # Getting Started! 
 
-First Step: Currently, I will be listing them oout irrespective of how active/dormant they are.
-Next Step: after forming a good list, will list by how active they are.
+Currently, I will be listing them out irrespective of how active/dormant they are.
+Next Step - after forming a good list, will list by how active they are.
 
 ## Community for Founders/Startups
 
-Female Founders around the world
+Female Founders around the world - Online
 http://hashtagfemalefounders.com/
 *Paid
 
@@ -18,30 +18,7 @@ https://www.youtube.com/channel/UCRbR-T0PbadgvMX_kBhA73Q/about
 Women centric communities in across 40 different topics of health, startups & domestic violence
 https://sheroes.com/communities
 
-## Science
-http://www.ias.ac.in/Initiatives/Women_in_Science/
 
-## Law
-The Lawyers Collective Women’s Rights Initiative (“LCWRI”)’s mission is the empowerment of women through law. http://www.lawyerscollective.org/wri
-
-## Travel groups
-TheeBeauties.com
-
-## Design
-
-https://designup.io
-
-A community manager-Anil- told me about this community he had started in Bangalore.
-
-He was part of NUMA and mentioned that NUMA is one of the best spaces for connections in Bangalore.
-
-"Creative mornings"
-Breakfast lecture series for the creative community. Our free, monthly events feature a short talk and breakfast!
-https://creativemornings.com/cities/blr
-
-https://creativemornings.com/cities/blr
-
-The work you do in 1 hour can be cast here & will reach an audience that's perfect for you.
 ## TECH
 
  - Women in Foss [Link1](https://deepdives.in/the-trouble-with-being-a-woman-in-foss-75181981bfdd) [Link2](http://fosscommunity.in/index.php?title=Contributors)
@@ -50,6 +27,37 @@ The work you do in 1 hour can be cast here & will reach an audience that's perfe
  - AdaCamp is an unconference for women in open technology
  - CODESS, a community for women coders established by Skype[Link](https://yourstory.com/2014/05/microsoft-codess-india/)
  - WinSpire, the women’s networking team
+
+## Travel groups
+TheeBeauties.com
+
+## Science
+http://www.ias.ac.in/Initiatives/Women_in_Science/
+
+## Law
+The Lawyers Collective Women’s Rights Initiative (“LCWRI”)’s mission is the empowerment of women through law. http://www.lawyerscollective.org/wri
+
+## Sports
+Maya Football Club [Source](https://blog.playo.co/2017/03/24/community-for-women-in-bengaluru-maya-fc/)
+ - Maya Outdoors
+ - WHAQ
+ 
+## Housing for women by Women
+https://www.explorelifetraveling.com/community/Women%20Professionals
+
+# Other general communities:
+
+## Design
+
+https://designup.io
+
+
+"Creative mornings"
+Breakfast lecture series for the creative community. Our free, monthly events feature a short talk and breakfast!
+https://creativemornings.com/cities/blr
+
+https://creativemornings.com/cities/blr
+
 
 
 
@@ -69,17 +77,13 @@ https://www.explorelifetraveling.com/community/Women%20Professionals
 
 http://www.womensweb.in/events/
 
-## Sports
-Maya Football Club [Source](https://blog.playo.co/2017/03/24/community-for-women-in-bengaluru-maya-fc/)
- - Maya Outdoors
- - WHAQ
+
 
 ## Sports - Running
 http://midnightmarathon.in/
 
 
-## Housing for women by Women
-https://www.explorelifetraveling.com/community/Women%20Professionals
+
 
 ## communities for protection of Women: [Twitter Link](https://twitter.com/blrcp)
 The Soukhya project was initiated in 2013 (year) by APSA, Breakthrough and the St. John’s Hospital Research Institute to empower women from urban slums combat gender-based violence in their families and community.
