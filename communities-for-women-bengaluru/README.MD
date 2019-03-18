@@ -3,22 +3,23 @@
 First Step: Currently, I will be listing them oout irrespective of how active/dormant they are.
 Next Step: after forming a good list, will list by how active they are.
 
-## Community for Female Founders
+## Community for Founders/Startups
 
+Female Founders around the world
 http://hashtagfemalefounders.com/
 *Paid
 
-## All-in-1
+Prathibha Sastry Academy of Women Entrepreneurs
+brings together Entrepreneurial, Adventurous and Innovative men and women in a quest to enable women to dwell deeper on the events that shape their life.
 
+https://www.youtube.com/channel/UCRbR-T0PbadgvMX_kBhA73Q/about
+
+
+Women centric communities in across 40 different topics of health, startups & domestic violence
 https://sheroes.com/communities
 
 ## Science
 http://www.ias.ac.in/Initiatives/Women_in_Science/
-
-## Enterpreneur
-Prathibha Sastry Academy of Women Entrepreneurs
-
-PS:brings together Entrepreneurial, Adventurous and Innovative women.
 
 ## Law
 The Lawyers Collective Women’s Rights Initiative (“LCWRI”)’s mission is the empowerment of women through law. http://www.lawyerscollective.org/wri
